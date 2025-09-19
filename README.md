@@ -38,14 +38,14 @@ Following searches for all the sites that is in the domain yahoo.com
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 082944](https://github.com/RahulKrishna05/Enumeration/assets/162027231/7c75c2d9-a4db-4548-8142-6fb4aae7d146)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0da0ea2d-43f7-4ee2-be08-5fa1c8f681a8" />
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083014](https://github.com/RahulKrishna05/Enumeration/assets/162027231/f594887e-2c66-4701-a9d4-016c628b994c)
+<img width="714" height="429" alt="image" src="https://github.com/user-attachments/assets/2e590555-2bc3-42f5-be4f-0004420f140f" />
 
 
 
@@ -53,33 +53,33 @@ intext: This operator allows you to search for pages that contain specific text 
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083056](https://github.com/RahulKrishna05/Enumeration/assets/162027231/49751dfd-19ad-4b49-a555-4a5cf2b8f4ac)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed103b95-fb0b-4a2d-b722-542b482f8c8b" />
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083245](https://github.com/RahulKrishna05/Enumeration/assets/162027231/4fb10c66-f7cd-4233-b98b-8d34b7222723)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/592bb9c4-107d-4dc2-9e45-bdd52ba4ee54" />
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083343](https://github.com/RahulKrishna05/Enumeration/assets/162027231/8da3e5f0-541d-4b1d-811a-b84fd11b26a6)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37d4d031-eed8-403c-b0c4-114ad506b0d9" />
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083445](https://github.com/RahulKrishna05/Enumeration/assets/162027231/2b6ab1fb-6db9-4eb3-b8ef-4c6c69a1e9ad)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2426dd2e-abd4-4568-8c62-de7a67f79ea0" />
 
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 ## OUTPUT:
 
-![Screenshot 2024-04-10 083602](https://github.com/RahulKrishna05/Enumeration/assets/162027231/13d83e06-6de2-4722-88e1-02c01d7d84e8)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12b86686-809c-4817-9557-7050da312d04" />
 
  
 #DNS Enumeration
@@ -150,4 +150,5 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
+
 
