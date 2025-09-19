@@ -94,7 +94,7 @@ Top level domain expansion
 ## OUTPUT:
 
 
-![Screenshot 2024-04-10 084807](https://github.com/RahulKrishna05/Enumeration/assets/162027231/844f8efc-98b8-4365-962f-aaa36c54136a)
+<img width="966" height="497" alt="image" src="https://github.com/user-attachments/assets/6c704add-8912-46e4-aa92-04e43b26785f" />
 
 
 
